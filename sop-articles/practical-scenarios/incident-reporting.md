@@ -1,4 +1,4 @@
 # Incident Reporting:
 
-* Example: "Control, this is Alpha Team, we have a fire outbreak at location X. Requesting immediate assistance. Over."
-* Response: "Alpha Team, this is Control, assistance is on the way. Provide further details. Over."
+* Example: "Control, this is Q-113, 10-70 at location X, involving XX. Requesting immediate assistance. Over."
+* Response: "Q-113, this is Control, Mandaue Base has been notified, assistance is on the way. Provide further details. Over."

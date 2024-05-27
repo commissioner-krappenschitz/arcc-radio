@@ -6,6 +6,10 @@
 ## SOP Articles
 
 * [General Principles](sop-articles/general-principles.md)
+* [Rules and Terms for Radio Frequency Usage](sop-articles/rules-and-terms-for-radio-frequency-usage/README.md)
+  * [Obtaining and Programming Radios:](sop-articles/rules-and-terms-for-radio-frequency-usage/obtaining-and-programming-radios.md)
+  * [Security of Radios and Frequency:](sop-articles/rules-and-terms-for-radio-frequency-usage/security-of-radios-and-frequency.md)
+  * [Proper Usage:](sop-articles/rules-and-terms-for-radio-frequency-usage/proper-usage.md)
 * [Radio Communication Procedure](sop-articles/radio-communication-procedure/README.md)
   * [Starting a Transmission:](sop-articles/radio-communication-procedure/starting-a-transmission.md)
   * [Making a Call:](sop-articles/radio-communication-procedure/making-a-call.md)

@@ -1,4 +1,4 @@
 # Responding to a Call:
 
-* Acknowledge the call: "Bravo One, this is Alpha Team, go ahead."
-* Respond with the required information or acknowledgement: "North perimeter is secure, no issues reported."
+* Acknowledge the call: "Q-113, this is 411, go ahead."
+* Respond with the required information or acknowledgement: "10-70 at XX location is still working fire, advised: tanker needed, over."
